@@ -1,16 +1,17 @@
 section {
 	width: 800px;
 	margin: 100px auto;
+	background-color: #24478f;
 }
 section h1,
 section p {
 	text-align: center;
-	color: #454545;
+	color: #ebf0fa;
 }
 section h1 {
 	font: 32px 'Open Sans';
 	font-weight: bold;
-	color: #66c2ff;
+	color: #ebf0fa;
 }
 section p {
 	font: 16px 'Open Sans';
